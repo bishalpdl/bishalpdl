@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bishal Paudel
-- 👀 I’m interested in Web Develpment and Artificial Intelligence.
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Web Develpment.
 - 📫 Contact me: bishal1paudel@gmail.com
 
 <!---
