@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bishal Paudel
-- 👀 I’m interested in Web Develpment.
+- 👀 I’m interested in Web Development.
 - 📫 Contact me: bishal1paudel@gmail.com
 
 <!---
